@@ -11,5 +11,6 @@ asd
 lo aguigu !ello aguigu !
 sad
 asd
+<<<<<<< HEAD
 this is old version master test
-I changed
+I changed hot-fix test
